@@ -2,3 +2,7 @@
 
 require:
     - play
+    - play -> crud
+
+# Import the secure module
+    - secure
